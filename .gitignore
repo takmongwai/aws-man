@@ -1,0 +1,5 @@
+test-results/
+tmp/
+routes/
+ec2/ec2_networkout_alerm
+ec2/ec2_snapshot
